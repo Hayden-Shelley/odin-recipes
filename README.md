@@ -1,2 +1,3 @@
 # odin-recipes
 Odin Project #1
+This project requires me to create a webpage with several recipes. There will be a homepage as well three separate pages with the recipes. The recipes will list the ingredients as well as the steps required to make them. During this project, I will focus on learning how to create an index.html file, headers, images, relative links, as well as ordered and unordered lists. 
