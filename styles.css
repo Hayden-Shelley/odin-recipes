@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(10, 142, 63);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+ul, ol {
+    list-style-position: inside;
+    padding-right: 60px;
+}
+
+.return{
+    padding-right: 10px;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
+
+a:active{
+    color: blue;
+}
